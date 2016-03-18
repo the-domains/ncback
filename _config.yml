@@ -1,0 +1,28 @@
+name: NCBack
+favicon: null
+layout_spectrum: 0.7988013147842139
+typography_spectrum: 0.48935599508695304
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.18882669718004763
+  lightness: 0.41961185238324106
+  saturation: 0.46592130954377353
+  rhythmicContrast: 0.5063638512510806
+purpose: []
