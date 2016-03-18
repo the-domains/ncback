@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NCBack]]></title>
+        <description><![CDATA[NCBack]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 11:25:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Vibrant Health Source is dedicated to providing you the resources for you to find not only relief from your pain and ailments but even more so the resources on how to achieve your optimum health.</p>]]></description>
+            <link>undefined00cbf649-41b6-41c5-ba60-e5b2de76b3ad/index.html</link>
+            <guid isPermaLink="false">00cbf649-41b6-41c5-ba60-e5b2de76b3ad</guid>
+            <pubDate>Fri, 18 Mar 2016 11:24:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
