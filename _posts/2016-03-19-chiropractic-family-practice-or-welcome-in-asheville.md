@@ -17,8 +17,8 @@ keywords:
   - relief
   - restoring
 description: Vibrant Health Source @ Asheville Chiropractic never charges for your initial consultation. Call for your appointment today at 299.4555 Providing Superior Relief by restoring Health and Balance Through Chiropractic
-datePublished: '2016-03-21T00:31:01.241Z'
-dateModified: '2016-03-21T00:30:13.884Z'
+datePublished: '2016-03-21T00:33:27.687Z'
+dateModified: '2016-03-21T00:31:05.219Z'
 author: []
 related: []
 app_links: []
