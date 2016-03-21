@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.drstockstad.com'
-  name: Drstockstad
-  favicon: 'http://cdn-web.baystonemedia.com/favicon.ico'
-  domain: www.drstockstad.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.drstockstad.com/testimonials/'
+inLanguage: en
+starred: false
 keywords:
   - stockstad
   - pain
@@ -18,19 +17,24 @@ keywords:
   - kindest
   - waddling
 description: 'Chiropractic Family Practice providing chiropractic care. Dr. Mathew Stockstad is a well-trained Asheville Chiropractor providing chiropractic care, call us today!!'
-inLanguage: en
+datePublished: '2016-03-21T00:19:43.487Z'
+dateModified: '2016-03-21T00:19:20.068Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.drstockstad.com/testimonials/'
 title: 'Chiropractic Family Practice | Testimonials in Asheville'
-datePublished: '2016-03-18T15:04:42.456Z'
-dateModified: '2016-03-18T14:44:37.282Z'
 sourcePath: _posts/2016-03-18-chiropractic-family-practice-or-testimonials-in-asheville.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Drstockstad
+  domain: www.drstockstad.com
+  url: 'http://www.drstockstad.com'
+  favicon: 'http://cdn-web.baystonemedia.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Chiropractic Family Practice | Testimonials in Asheville</h1><p>Chiropractic Family Practice providing chiropractic care. Dr. Mathew Stockstad is a well-trained Asheville Chiropractor providing chiropractic care, call us today!!</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cdfc835-d74f-4a11-9b7b-89c64f205f07.jpg)
+
+<article style=""><h1>Asheville Chiropractic Testimonials</h1><p>Asheville Chiropractic providing state of the art chiropractic care. Dr. Mathew Stockstad is a well-trained health care physician providing chiropractic care, call us today!!</p></article>
